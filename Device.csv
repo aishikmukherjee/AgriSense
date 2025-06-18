@@ -1,0 +1,1001 @@
+device_id,farm_id,device_type,installation_date,status,device_location
+1,1,WeatherStation,25-07-2023,Faulty,"079 Jensen Port Suite 082
+New Elizabeth, VT 15335"
+2,16,SensorBox,09-02-2025,Inactive,"363 Jillian Garden
+Lake Thomashaven, NM 13884"
+3,3,SensorBox,17-12-2024,Faulty,"039 Torres Mission Suite 884
+Port Crystalmouth, ND 29789"
+4,97,WeatherStation,24-10-2021,Faulty,"34331 Williams Shoal Apt. 204
+Lake Tammy, NV 96639"
+5,65,SensorBox,15-04-2020,Inactive,"57934 Mcguire Ranch
+New Madeline, WI 41958"
+6,30,SensorBox,08-01-2021,Inactive,"USNS White
+FPO AA 62972"
+7,13,SensorBox,22-03-2024,Faulty,"156 Dwayne Overpass Apt. 845
+New Williamshire, MI 36004"
+8,82,WeatherStation,26-12-2024,Faulty,"3030 Amy Cliff Suite 136
+Lake Robertside, AS 41378"
+9,3,SensorBox,10-10-2020,Faulty,"707 Wood Circle Suite 799
+Josechester, LA 73341"
+10,10,SensorBox,08-12-2023,Faulty,"USS Brown
+FPO AE 74392"
+11,68,SensorBox,08-08-2023,Active,"478 Aaron Stream Suite 364
+East Craig, SC 96914"
+12,96,SensorBox,27-10-2020,Active,"79689 Valerie Junction
+New Catherinechester, NV 28320"
+13,49,WeatherStation,28-03-2023,Inactive,"774 Martinez River
+Smithshire, FM 34142"
+14,5,WeatherStation,09-03-2022,Inactive,"115 Torres Shore Apt. 542
+New Kathleen, TN 23440"
+15,40,SensorBox,01-07-2021,Faulty,"672 Kirk Green Apt. 856
+New Annaside, VT 70340"
+16,78,WeatherStation,10-01-2025,Inactive,"054 Lopez Mountain
+Allenshire, SD 95954"
+17,17,SensorBox,09-05-2025,Active,"9213 Robert Spur Suite 891
+Beltranborough, OK 63369"
+18,57,WeatherStation,11-10-2022,Active,"76729 Robin Islands Apt. 157
+Bushtown, NC 61323"
+19,14,WeatherStation,08-10-2020,Active,"8769 Alejandro Street
+Port Mirandaside, SC 09831"
+20,43,WeatherStation,17-01-2023,Faulty,"1090 Brandon Estates
+Tammystad, MT 72210"
+21,25,SensorBox,06-07-2020,Active,"969 Smith Crossing Suite 423
+New Steven, WI 38960"
+22,89,SensorBox,12-10-2022,Inactive,"7588 Strong Divide
+Lake Victorialand, PA 72057"
+23,67,SensorBox,28-04-2024,Active,"250 Russell Stream
+North Taraburgh, DE 54850"
+24,74,SensorBox,24-10-2022,Inactive,"586 Roger River
+North Amandabury, NC 07610"
+25,81,WeatherStation,23-05-2024,Active,"5769 Kevin Village
+East Jeremymouth, TN 10537"
+26,8,WeatherStation,29-04-2025,Faulty,"86802 Johnson Pine
+Evanschester, GA 52343"
+27,11,SensorBox,28-08-2024,Faulty,"0115 Williams View
+Woodberg, DC 30737"
+28,18,SensorBox,02-01-2021,Active,"90301 Huynh Point
+Danielland, MH 01662"
+29,53,WeatherStation,28-07-2024,Active,"551 Derek Plain
+Matthewsfort, NC 01776"
+30,73,SensorBox,02-10-2022,Inactive,"USNV Hill
+FPO AA 25283"
+31,87,SensorBox,11-07-2022,Active,"PSC 3118, Box 8356
+APO AA 88095"
+32,45,SensorBox,10-11-2020,Active,"393 Colleen Ridge
+West Tanyashire, LA 65048"
+33,69,SensorBox,14-05-2025,Faulty,"USNS Matthews
+FPO AA 49877"
+34,88,WeatherStation,30-10-2024,Inactive,"9618 Watts Station Apt. 131
+Mauriceside, AL 64455"
+35,28,SensorBox,21-04-2020,Inactive,"13821 Michael Locks
+Lake Larry, IN 45532"
+36,42,SensorBox,22-09-2021,Inactive,"6622 Crane Summit Apt. 569
+Gonzaleston, OK 92646"
+37,17,SensorBox,07-10-2020,Inactive,"10441 Rose Mall
+Kingborough, MH 15136"
+38,83,WeatherStation,15-04-2025,Inactive,"8397 Little Mission
+Jamesshire, AL 09078"
+39,72,SensorBox,23-03-2021,Faulty,"3499 Turner Summit Suite 573
+South Emilyfurt, NH 91453"
+40,49,SensorBox,29-11-2021,Faulty,"64800 Hansen Estate Suite 098
+Lake Michelle, IA 57329"
+41,84,WeatherStation,07-11-2020,Active,"529 Sarah Drive Suite 991
+West Heatherhaven, WY 18131"
+42,88,SensorBox,01-01-2025,Active,"9934 Black Vista
+Lake Andrewtown, KY 17954"
+43,8,WeatherStation,26-02-2020,Faulty,"82120 Daniel Cove
+New Carolyn, NM 97985"
+44,6,WeatherStation,15-10-2024,Faulty,"PSC 4466, Box 5110
+APO AE 60685"
+45,12,SensorBox,15-06-2022,Faulty,"6411 Maxwell Tunnel
+Guerrerobury, MP 72245"
+46,79,SensorBox,21-04-2021,Inactive,"694 Kevin Street Suite 912
+Michellebury, PR 62599"
+47,97,WeatherStation,07-04-2022,Active,"910 Calvin Views
+Montoyaborough, CA 46903"
+48,88,SensorBox,12-12-2021,Faulty,"74226 Dean Station
+South Samuel, NC 26167"
+49,95,SensorBox,29-11-2024,Active,"3699 Daniel Falls
+New Samuel, TN 89673"
+50,87,SensorBox,19-06-2024,Inactive,"75214 Amanda Trafficway
+Jameston, MN 04143"
+51,77,WeatherStation,05-08-2020,Active,"835 Morales Mountain
+Sophiaville, ME 09170"
+52,56,WeatherStation,20-09-2020,Active,"758 David Hills Suite 584
+Josephberg, IN 87161"
+53,26,WeatherStation,28-10-2022,Active,"93009 White Island Suite 462
+Carrollmouth, GA 78767"
+54,14,WeatherStation,25-01-2021,Inactive,"5721 Reginald Ridges
+Lake Charles, WV 82194"
+55,32,WeatherStation,30-09-2021,Active,"926 Matthew Ways Suite 447
+Barrerahaven, SC 51774"
+56,53,WeatherStation,02-12-2024,Inactive,"1989 Lisa Divide Suite 795
+Port Kathleen, MP 13700"
+57,92,SensorBox,01-04-2022,Faulty,"346 Price Motorway Suite 484
+Sandersside, TX 93339"
+58,98,WeatherStation,17-10-2020,Inactive,"59713 Brown Falls
+West Brandy, CA 60100"
+59,100,SensorBox,30-08-2020,Active,"062 Powell Estates
+Hodgesshire, NV 89393"
+60,56,WeatherStation,31-08-2023,Faulty,"7234 Virginia Tunnel
+Charlesstad, MO 61504"
+61,99,WeatherStation,08-08-2024,Inactive,"23518 Eric Mall
+West Timothyfurt, CA 08050"
+62,94,SensorBox,06-01-2022,Active,"Unit 3240 Box 7250
+DPO AA 88057"
+63,65,WeatherStation,12-05-2023,Faulty,"135 Elizabeth Cliffs Apt. 044
+Armstrongtown, IN 43341"
+64,23,WeatherStation,20-12-2022,Inactive,"35978 Wells Streets
+East Kevin, TN 22864"
+65,18,SensorBox,05-02-2023,Active,"883 James Well Apt. 888
+Adamsville, UT 82186"
+66,80,SensorBox,08-07-2020,Active,"566 Middleton Ferry Suite 163
+Valdezberg, MD 23674"
+67,6,WeatherStation,04-04-2021,Faulty,"9531 Mueller Ridges
+East Sue, CO 86356"
+68,100,WeatherStation,31-07-2023,Faulty,"517 Baker Terrace
+Cochranland, VA 79825"
+69,17,SensorBox,10-08-2021,Faulty,"510 Pierce Mission
+North Patty, AZ 01788"
+70,88,SensorBox,14-02-2020,Faulty,"Unit 3347 Box 2699
+DPO AP 11213"
+71,84,WeatherStation,11-05-2023,Active,"576 Pierce Islands Apt. 310
+New Maria, AK 82321"
+72,98,WeatherStation,08-09-2020,Faulty,"055 Jeffrey Canyon
+Port Emily, NH 99365"
+73,81,WeatherStation,07-01-2023,Faulty,"51022 Michael Turnpike Suite 081
+Jensenland, WY 03783"
+74,63,WeatherStation,03-04-2024,Inactive,"68233 Thomas Neck
+Oliverburgh, PA 16783"
+75,29,WeatherStation,09-12-2021,Inactive,"968 Michelle Course Suite 993
+Dylanton, TN 24687"
+76,90,WeatherStation,09-01-2024,Active,"365 Robert Views
+Davisstad, MN 09444"
+77,21,SensorBox,23-09-2023,Active,"720 Steven Oval Apt. 854
+Johnstad, WI 24942"
+78,28,SensorBox,02-04-2021,Faulty,"USNV Elliott
+FPO AE 71832"
+79,2,SensorBox,09-04-2023,Active,"7528 Campbell Mountains Suite 013
+Christinatown, ID 32984"
+80,65,SensorBox,03-07-2021,Inactive,"USCGC Smith
+FPO AE 75362"
+81,22,WeatherStation,16-01-2020,Inactive,"236 Pierce Bypass
+North Patricia, KS 00689"
+82,97,SensorBox,16-06-2022,Active,"923 Moreno Ports Apt. 940
+North Carolynport, NH 36741"
+83,61,SensorBox,21-02-2022,Faulty,"4738 Rice Mall
+East Valeriefort, NY 03593"
+84,95,SensorBox,07-11-2024,Faulty,"06578 Felicia Park Suite 832
+New Thomas, VI 92417"
+85,64,WeatherStation,25-04-2024,Faulty,"268 Pittman Causeway Suite 869
+Hollyberg, WI 49162"
+86,24,WeatherStation,09-09-2020,Active,"69776 Lamb Stream
+West Michaelbury, CT 28658"
+87,69,WeatherStation,13-02-2022,Faulty,"44283 Hannah Shoals
+East Allisonton, NH 93488"
+88,72,WeatherStation,25-05-2024,Active,"Unit 3198 Box 1340
+DPO AA 59430"
+89,49,SensorBox,24-04-2023,Inactive,"87117 Keith Walk
+East Margaretchester, MD 92231"
+90,100,SensorBox,17-08-2023,Faulty,"799 Jamie Fork
+Austinshire, AL 09158"
+91,54,SensorBox,24-02-2020,Active,"938 Jamie Courts Suite 114
+Shepardport, WY 19805"
+92,82,SensorBox,07-03-2024,Inactive,"24001 Collins Court Apt. 344
+Lake Brianville, ND 20786"
+93,74,SensorBox,04-11-2022,Active,"932 Brenda Squares
+Angelaview, WA 92750"
+94,5,WeatherStation,12-11-2024,Faulty,"557 Mary Road
+West Steven, MI 15189"
+95,87,WeatherStation,26-08-2023,Faulty,"2835 Dominique Ramp
+Rebekahshire, SD 86153"
+96,56,WeatherStation,01-12-2021,Inactive,"16871 Lopez Crest Suite 915
+New Nicholas, NE 16512"
+97,65,SensorBox,20-01-2021,Inactive,"264 Hanson Run Suite 428
+Wheelerfort, MD 96374"
+98,50,WeatherStation,07-03-2025,Inactive,"516 Mason Centers Suite 302
+Oliviafurt, DE 89172"
+99,25,SensorBox,08-03-2020,Inactive,"80752 Anthony Tunnel Apt. 636
+Teresaland, MS 71034"
+100,63,SensorBox,12-12-2022,Inactive,"63530 Christina Mill
+Phillipsside, TN 27014"
+101,87,SensorBox,23-09-2024,Inactive,"PSC 6762, Box 6787
+APO AP 81362"
+102,51,SensorBox,28-12-2024,Inactive,"6436 Anthony Well Apt. 866
+Rebeccamouth, CO 52555"
+103,29,SensorBox,10-05-2020,Faulty,"971 Shah Centers
+East Eric, MA 62440"
+104,92,WeatherStation,16-07-2024,Active,"807 Emily Loaf
+Edwardport, KY 32028"
+105,1,SensorBox,08-08-2021,Inactive,"USCGC Rivas
+FPO AE 53372"
+106,16,WeatherStation,13-08-2024,Inactive,"530 Munoz Drives Suite 379
+West Jordanfurt, MT 39818"
+107,41,WeatherStation,22-11-2024,Active,"USNV Sanchez
+FPO AE 53120"
+108,13,WeatherStation,26-03-2022,Inactive,"52697 Jason Prairie
+Jesusberg, FM 54172"
+109,54,SensorBox,24-12-2021,Inactive,"Unit 2233 Box 2134
+DPO AA 69200"
+110,97,WeatherStation,31-01-2021,Active,"34847 Foster Forge Suite 446
+Lake Rebeccashire, GA 61246"
+111,1,SensorBox,12-10-2020,Inactive,"4504 Jay Mall
+New Rodney, AR 19607"
+112,72,WeatherStation,06-04-2020,Faulty,"PSC 9114, Box 0334
+APO AA 82761"
+113,95,SensorBox,03-07-2022,Active,"4343 Robbins Walks Apt. 208
+Tracyfurt, NC 00788"
+114,91,SensorBox,28-08-2020,Active,"56057 Green Shore
+South Michaelmouth, DE 79178"
+115,91,SensorBox,23-11-2020,Active,"503 Jacobs Wells Suite 569
+Lambertton, TN 92004"
+116,60,SensorBox,27-05-2024,Faulty,"Unit 2012 Box 2734
+DPO AE 80282"
+117,1,SensorBox,13-02-2025,Faulty,"Unit 3457 Box 5580
+DPO AE 60215"
+118,11,SensorBox,21-06-2021,Inactive,"817 Jane Locks Apt. 110
+Randallmouth, WY 68755"
+119,46,SensorBox,07-09-2024,Inactive,"75254 Gregory Expressway Suite 653
+Parkerbury, MI 55457"
+120,61,WeatherStation,09-02-2025,Faulty,"3676 Raymond Common Apt. 410
+Johnburgh, NM 08256"
+121,85,SensorBox,13-03-2020,Inactive,"754 Theresa Green Suite 615
+South Patrickside, IL 50476"
+122,38,SensorBox,28-12-2021,Active,"5748 Collins Camp
+New Michael, KY 50751"
+123,69,SensorBox,18-07-2021,Inactive,"67432 Jennifer Motorway Apt. 896
+Lake Cole, PR 12521"
+124,44,WeatherStation,29-01-2025,Inactive,"3625 Best Lake
+Coleberg, ID 01643"
+125,25,SensorBox,03-08-2021,Faulty,"7345 Scott Island Suite 931
+South Edwardtown, KY 80838"
+126,88,WeatherStation,10-09-2020,Inactive,"560 Cynthia Run Suite 604
+Beardmouth, AS 08273"
+127,44,WeatherStation,02-09-2024,Faulty,"681 Anna Knoll
+Kimtown, MP 45371"
+128,44,SensorBox,24-06-2023,Faulty,"04929 Gonzales Terrace Apt. 573
+Lake Brett, MT 08908"
+129,26,SensorBox,15-08-2022,Inactive,"79769 Katie Mission Apt. 683
+Deniseberg, WA 91482"
+130,24,WeatherStation,07-02-2023,Faulty,"83490 Colon Junction Suite 470
+West Michael, MD 71287"
+131,42,SensorBox,01-01-2021,Inactive,"34152 Catherine Circle
+New Michaelchester, IA 27154"
+132,45,WeatherStation,04-01-2023,Faulty,"4659 Branch Flat
+Danielville, VI 24633"
+133,30,WeatherStation,17-09-2023,Active,"11404 Lucas Pike
+Coxhaven, AZ 98959"
+134,19,WeatherStation,02-05-2025,Inactive,"USS Martinez
+FPO AA 02558"
+135,35,SensorBox,14-02-2024,Inactive,"2440 Karen Ville Apt. 544
+New Alice, KY 26938"
+136,21,SensorBox,19-05-2024,Active,"USNS Gutierrez
+FPO AP 12883"
+137,90,SensorBox,24-05-2025,Inactive,"12916 William Port
+Josephberg, IL 70532"
+138,59,SensorBox,18-07-2021,Active,"525 Marquez Point Suite 870
+Lake Kristenmouth, GA 84317"
+139,93,WeatherStation,15-09-2024,Faulty,"4522 Patricia Pine
+Brandonbury, WV 15985"
+140,67,WeatherStation,24-10-2023,Faulty,"9163 Scott Mill
+Fredericktown, NM 03785"
+141,52,SensorBox,21-05-2025,Faulty,"7237 Miller Shoal Suite 215
+North Amymouth, SD 59023"
+142,11,SensorBox,03-02-2024,Faulty,"372 Jessica Highway Apt. 203
+New Williamshire, KY 82895"
+143,36,SensorBox,25-02-2021,Faulty,"USNS Maldonado
+FPO AE 51962"
+144,83,SensorBox,10-05-2025,Faulty,"7945 Kimberly Estates
+Port Michaelbury, PW 57249"
+145,50,SensorBox,05-01-2024,Inactive,"08205 Lisa Fords
+North Rodneyberg, LA 13978"
+146,71,SensorBox,20-12-2021,Inactive,"0911 Andrea Plain Suite 625
+Katrinaside, VT 44517"
+147,78,SensorBox,26-07-2022,Faulty,"917 Taylor Passage
+New Bobbyside, AZ 97087"
+148,65,WeatherStation,09-06-2020,Faulty,"Unit 8581 Box 8179
+DPO AA 14721"
+149,20,WeatherStation,24-08-2023,Faulty,"16072 Pollard Drive
+Port Ashley, OH 07921"
+150,17,WeatherStation,31-08-2024,Faulty,"788 Anthony Fields
+Ericbury, MP 10091"
+151,80,WeatherStation,10-08-2021,Inactive,"USNS Griffin
+FPO AP 92395"
+152,30,WeatherStation,15-01-2021,Inactive,"4141 Larry Bypass Suite 147
+Lake Cameron, FL 36236"
+153,93,SensorBox,03-05-2021,Faulty,"86797 Todd Rue Apt. 204
+Jenniferfort, IN 18553"
+154,17,SensorBox,10-11-2021,Active,"249 Lewis Brook
+Lake Valerie, KY 93377"
+155,23,WeatherStation,09-06-2021,Faulty,"0665 Jennifer Village Apt. 740
+Markston, NC 72431"
+156,66,WeatherStation,23-09-2020,Faulty,"000 Nelson Isle
+Gregoryport, DE 38064"
+157,95,WeatherStation,10-10-2024,Active,"39080 Amanda Mall Apt. 727
+Richardport, AS 97157"
+158,13,SensorBox,06-04-2021,Inactive,"89813 David Summit Suite 219
+North Thomasshire, UT 25558"
+159,86,SensorBox,14-04-2024,Inactive,"76562 John Curve Suite 242
+Sarahberg, MT 46497"
+160,33,SensorBox,08-04-2021,Faulty,"39105 Burns Viaduct
+Thomasside, UT 67274"
+161,81,SensorBox,10-04-2021,Active,"Unit 4355 Box 7995
+DPO AA 52161"
+162,36,SensorBox,18-10-2020,Active,"038 Hernandez Road
+Michelleport, VI 12763"
+163,4,SensorBox,07-05-2025,Active,"223 Joshua Knolls Suite 293
+Lake Adammouth, FM 77237"
+164,17,SensorBox,02-08-2020,Active,"9403 Walker Branch Apt. 613
+Pricemouth, OR 04053"
+165,94,WeatherStation,24-03-2021,Inactive,"1590 Angela Center Apt. 626
+Christinechester, PW 72264"
+166,69,WeatherStation,29-12-2024,Inactive,"50070 Matthew Lake
+Andersonburgh, MP 92089"
+167,51,WeatherStation,13-05-2024,Faulty,"2503 Megan Lodge
+Brownton, MI 66818"
+168,97,WeatherStation,27-06-2021,Active,"936 Daniel Radial
+North Toni, MI 56218"
+169,95,WeatherStation,12-01-2022,Inactive,"7697 Martinez Underpass
+North Andrew, CA 06147"
+170,95,SensorBox,23-02-2021,Active,"2971 Harvey Lock
+South Sean, WA 11246"
+171,91,SensorBox,13-01-2025,Active,"760 Allen Dale
+Lewiston, KY 29587"
+172,25,SensorBox,01-06-2024,Active,"63265 Victoria View
+Allenchester, GU 66679"
+173,49,WeatherStation,17-03-2023,Faulty,"4041 Jordan Flats Apt. 114
+North Karenmouth, IA 93461"
+174,24,SensorBox,10-01-2021,Inactive,"0364 Warren Prairie
+North Jonathanburgh, MA 50965"
+175,23,WeatherStation,28-12-2022,Active,"Unit 3254 Box 3674
+DPO AE 33645"
+176,14,SensorBox,27-08-2023,Inactive,"413 Carlos Course
+Port Taylorport, NJ 88329"
+177,60,WeatherStation,07-09-2020,Active,"074 David Viaduct
+North Tammyberg, OR 53236"
+178,65,SensorBox,20-01-2023,Inactive,"PSC 3227, Box 4679
+APO AE 82611"
+179,5,WeatherStation,28-03-2021,Faulty,"412 Benjamin Landing Apt. 296
+Lake Martinhaven, FL 98526"
+180,53,WeatherStation,29-12-2022,Active,"09780 Sharon Islands
+Campbellborough, PW 42283"
+181,33,SensorBox,12-07-2024,Inactive,"Unit 3480 Box 9776
+DPO AA 61906"
+182,27,WeatherStation,26-01-2020,Inactive,"245 Brown Island
+Gomezmouth, CT 39325"
+183,60,SensorBox,12-08-2022,Active,"6453 Joseph Underpass
+South Katherine, NH 83443"
+184,99,SensorBox,18-09-2021,Inactive,"6426 Cantrell Underpass
+Solisberg, NC 77602"
+185,24,SensorBox,04-03-2024,Faulty,"Unit 0833 Box 3142
+DPO AE 82480"
+186,93,SensorBox,02-01-2024,Active,"80050 Reyes Forest Suite 671
+Jonestown, WY 69499"
+187,69,SensorBox,11-02-2021,Faulty,"5716 Justin Passage Suite 835
+Morrisland, NV 26883"
+188,36,SensorBox,26-04-2023,Faulty,"7392 Kimberly Harbor Suite 507
+East Amanda, VA 19148"
+189,80,SensorBox,03-04-2024,Inactive,"64289 Hayes Crossing
+Port Crystalmouth, CA 52343"
+190,45,SensorBox,15-09-2023,Active,"111 Joel River Apt. 425
+North Vanessa, WV 20907"
+191,3,SensorBox,04-08-2023,Active,"989 Gina Haven
+Watsonberg, MA 61767"
+192,53,WeatherStation,04-11-2020,Faulty,"PSC 0625, Box 4632
+APO AE 69662"
+193,77,SensorBox,28-01-2024,Inactive,"767 Elliott Mission
+East Albertfort, LA 83503"
+194,7,WeatherStation,05-11-2021,Faulty,"793 Murphy Isle
+New Kevinchester, NE 38842"
+195,45,WeatherStation,04-06-2021,Inactive,"8536 David Plaza
+Huffborough, WA 26581"
+196,43,SensorBox,16-08-2022,Inactive,"9905 Shannon Grove
+Bryanmouth, GU 32597"
+197,4,SensorBox,19-12-2020,Inactive,"83082 Franklin Forges
+Tracihaven, WY 28618"
+198,21,SensorBox,22-04-2021,Inactive,"537 Carolyn Estates
+North Julieland, SC 32679"
+199,83,SensorBox,14-09-2024,Faulty,"0457 Ronald Skyway
+Garciaside, WI 77781"
+200,31,SensorBox,15-02-2024,Active,"Unit 5215 Box 3246
+DPO AP 61515"
+201,41,WeatherStation,09-02-2025,Active,"7081 Patricia Harbor
+Carlaton, AZ 88343"
+202,80,SensorBox,18-11-2023,Inactive,"9535 Jones Rest
+South Adam, IA 17019"
+203,1,SensorBox,31-08-2024,Inactive,"346 Meagan Via Suite 925
+South Vincent, MO 22691"
+204,94,SensorBox,28-10-2021,Inactive,"USNV Martin
+FPO AA 60615"
+205,32,SensorBox,09-11-2020,Faulty,"18626 John Summit Suite 007
+North Colton, MN 57349"
+206,65,WeatherStation,21-04-2021,Active,"PSC 2525, Box 4076
+APO AA 47714"
+207,43,WeatherStation,01-06-2020,Active,"887 Johnson Forest Apt. 095
+East Jeff, AL 66668"
+208,50,SensorBox,08-06-2022,Faulty,"8017 Anthony Turnpike Apt. 458
+Raymondport, VT 00792"
+209,82,SensorBox,18-08-2020,Active,"005 Karen Curve
+Thomasburgh, IN 25919"
+210,74,WeatherStation,29-09-2020,Faulty,"5392 Catherine Loaf
+West Rebecca, IN 56056"
+211,49,SensorBox,24-01-2021,Active,"05707 Chapman Row
+Tylertown, KY 17086"
+212,73,SensorBox,03-09-2020,Active,"1293 Long Trafficway Apt. 302
+Harringtonfort, GU 40743"
+213,60,SensorBox,08-07-2021,Faulty,"6771 Jasmine Trace Apt. 747
+Katherinechester, MT 36920"
+214,12,SensorBox,02-03-2021,Inactive,"5011 Fowler Corners Suite 342
+West Adamfort, MS 56691"
+215,80,SensorBox,17-11-2024,Inactive,"PSC 9366, Box 9247
+APO AE 34066"
+216,67,SensorBox,13-06-2023,Faulty,"541 Stewart River
+Allenhaven, PR 20299"
+217,6,SensorBox,17-06-2023,Faulty,"PSC 0394, Box 2327
+APO AE 72133"
+218,30,SensorBox,06-06-2022,Active,"77257 Erica Road Suite 702
+North Michaelborough, NM 72041"
+219,15,SensorBox,31-05-2020,Inactive,"8886 Donald Camp Apt. 041
+Saraview, FM 47152"
+220,21,WeatherStation,03-10-2024,Inactive,"03342 Paul Flat
+West Laura, AL 28443"
+221,40,WeatherStation,16-03-2024,Faulty,"8515 Keller Mills
+Alexanderberg, VI 30770"
+222,39,WeatherStation,10-01-2020,Faulty,"15799 Frank Corners
+Port Jackland, ME 15526"
+223,49,SensorBox,24-02-2021,Faulty,"6370 Hayes Mill
+Salazarborough, MH 38588"
+224,82,WeatherStation,17-08-2022,Active,"Unit 5066 Box 9281
+DPO AA 41708"
+225,24,WeatherStation,01-02-2021,Active,"20536 Marshall Lights
+Lake Robert, CO 17680"
+226,20,SensorBox,03-03-2020,Active,"163 May Circles
+Ellisport, VT 44839"
+227,61,WeatherStation,12-06-2020,Inactive,"6381 Mills Plaza
+Bakerburgh, WI 01309"
+228,75,WeatherStation,14-12-2020,Inactive,"54555 Jay Underpass Apt. 387
+Port Nicole, AR 03478"
+229,22,WeatherStation,18-03-2022,Inactive,"0716 Rebecca Fields Suite 959
+Davidbury, SD 45247"
+230,58,WeatherStation,19-11-2023,Inactive,"14257 Jason Glen
+Laurafurt, TX 91177"
+231,11,SensorBox,31-05-2020,Active,"3062 Anthony Motorway
+Jenkinsbury, AZ 41192"
+232,42,WeatherStation,08-06-2025,Active,"8130 Medina Mountains
+Timothyton, HI 68033"
+233,49,WeatherStation,30-05-2024,Faulty,"4217 Greene Roads
+Howellside, SD 35532"
+234,74,WeatherStation,18-11-2022,Active,"5335 Jacqueline Alley Apt. 725
+East Lisa, WY 51857"
+235,37,WeatherStation,28-05-2021,Active,"711 Victoria Ferry Apt. 824
+Port Joseberg, NM 19481"
+236,81,SensorBox,01-06-2020,Faulty,"52670 Christopher Junctions Apt. 363
+Anthonyhaven, ND 89072"
+237,76,WeatherStation,08-11-2022,Active,"089 Hill Loaf Apt. 999
+Lake Karenberg, CO 93881"
+238,36,WeatherStation,12-11-2022,Faulty,"0631 Melissa Fields
+Kyletown, NY 08524"
+239,20,WeatherStation,07-07-2024,Faulty,"60387 Tucker Freeway
+Port Stephanie, AZ 70879"
+240,77,WeatherStation,24-07-2022,Faulty,"Unit 5688 Box 6812
+DPO AA 65023"
+241,58,SensorBox,02-07-2023,Inactive,"24103 Owen Walks Suite 829
+Kristiberg, OK 20444"
+242,52,WeatherStation,01-07-2022,Active,"68739 Shawna Brooks
+New Sarahshire, GU 90506"
+243,48,WeatherStation,04-03-2024,Inactive,"PSC 0812, Box 7134
+APO AP 87426"
+244,27,SensorBox,31-05-2025,Faulty,"468 April Shore Apt. 322
+North Stevenfurt, DE 50127"
+245,57,SensorBox,22-01-2024,Faulty,"Unit 9894 Box 6994
+DPO AA 26978"
+246,92,SensorBox,25-10-2020,Active,"712 Campbell Mills Suite 717
+Medinaborough, DE 26380"
+247,2,WeatherStation,14-10-2021,Faulty,"974 Krause Grove
+Keymouth, TN 78498"
+248,81,WeatherStation,27-04-2020,Active,"6755 Rebecca Forges Suite 860
+Johnport, GU 07520"
+249,43,SensorBox,20-12-2021,Inactive,"855 Monique Squares Suite 284
+Jasonmouth, OR 39570"
+250,12,SensorBox,29-04-2025,Faulty,"1513 Jennifer Burg
+West Cindy, MH 37631"
+251,38,WeatherStation,11-06-2022,Faulty,"9197 Rich Fords Suite 407
+Simmonsborough, IA 77397"
+252,58,SensorBox,10-02-2020,Faulty,"PSC 7849, Box 5939
+APO AA 91505"
+253,51,WeatherStation,15-06-2023,Active,"55335 Hopkins Pines Apt. 728
+Gardnertown, AK 75978"
+254,97,WeatherStation,05-12-2024,Faulty,"73254 Michelle Land
+West Sandra, SC 87955"
+255,67,WeatherStation,10-05-2023,Faulty,"27001 Lee Locks
+Contrerasberg, ME 39490"
+256,99,SensorBox,24-03-2023,Inactive,"565 Anthony Falls
+Lake Christine, AZ 26233"
+257,21,SensorBox,12-09-2020,Faulty,"24489 Davis Highway
+Port Charlotte, ME 96883"
+258,75,WeatherStation,29-06-2020,Active,"9692 Gregory Mission
+Nicoleshire, DC 26334"
+259,3,WeatherStation,05-05-2024,Faulty,"USNV Downs
+FPO AA 19929"
+260,83,WeatherStation,21-09-2024,Inactive,"7410 Christine Crest
+Patricktown, DC 73710"
+261,92,SensorBox,03-08-2022,Inactive,"226 Hardy Dam Suite 695
+Jonesmouth, MS 66468"
+262,28,WeatherStation,20-08-2024,Inactive,"USNV May
+FPO AE 02573"
+263,79,WeatherStation,21-04-2022,Faulty,"5890 White Manors
+New Scottside, AL 52719"
+264,31,SensorBox,29-12-2024,Faulty,"35981 Jeffrey Islands
+Port Juan, AS 66561"
+265,9,WeatherStation,11-01-2024,Active,"9642 Mcdaniel Parks Apt. 021
+East Lauriefort, PW 77161"
+266,88,SensorBox,05-03-2021,Faulty,"2617 Martin Court
+South Ericfort, OR 87686"
+267,56,SensorBox,27-01-2021,Faulty,"PSC 1625, Box 1279
+APO AE 02319"
+268,2,SensorBox,02-11-2022,Inactive,"55075 Stacey Stravenue Suite 020
+Lake Christina, ME 47243"
+269,45,SensorBox,16-02-2025,Inactive,"8529 Linda Pine
+New Amandabury, AL 78666"
+270,4,WeatherStation,14-05-2022,Active,"1507 Jeffrey Trail Suite 990
+Jacksonside, NH 96029"
+271,22,SensorBox,02-01-2025,Active,"2631 Carey Grove
+East Pamelabury, TX 55642"
+272,15,WeatherStation,15-04-2022,Inactive,"504 Fisher Fall Suite 052
+West Sherry, LA 13144"
+273,78,WeatherStation,21-11-2024,Active,"152 Hunter Path Suite 253
+Masonbury, OH 46671"
+274,75,SensorBox,26-01-2024,Inactive,"Unit 0903 Box 7877
+DPO AA 05743"
+275,16,WeatherStation,13-08-2020,Inactive,"176 Mary Stream Suite 609
+Lake Andrew, MS 06795"
+276,29,WeatherStation,03-02-2021,Faulty,"52201 Lang Knoll
+Reesemouth, WA 06713"
+277,64,SensorBox,12-02-2022,Inactive,"1264 Lambert Lane
+Port Darrellmouth, ND 46655"
+278,65,WeatherStation,27-09-2022,Active,"597 Julie Cape
+West Danielside, MI 41792"
+279,34,WeatherStation,17-04-2021,Faulty,"0647 Dustin Plain
+Jeffreyburgh, IN 80265"
+280,57,SensorBox,22-10-2022,Active,"0152 Amy Underpass Apt. 904
+North Charles, CA 08531"
+281,44,WeatherStation,06-02-2020,Active,"6307 Melissa Canyon Suite 449
+Vazquezburgh, VI 21155"
+282,77,WeatherStation,29-11-2022,Inactive,"7031 Martin Lakes
+Thomashaven, WY 07493"
+283,5,SensorBox,27-11-2024,Active,"23723 Stanley Passage
+Port Renee, IA 59570"
+284,59,SensorBox,04-10-2022,Active,"2552 Robert Stravenue Apt. 718
+Haneyburgh, AK 55625"
+285,64,SensorBox,20-01-2021,Active,"5225 Arnold Land
+Joshuatown, DE 28985"
+286,91,SensorBox,26-03-2025,Inactive,"50453 Omar Forks Suite 354
+Lake Michaelborough, AS 79967"
+287,45,SensorBox,01-10-2023,Faulty,"532 Jesse Branch Suite 175
+Michealmouth, MO 41624"
+288,58,WeatherStation,17-05-2020,Inactive,"52381 Joshua Mill
+Michelleberg, RI 76580"
+289,53,SensorBox,25-02-2025,Faulty,"487 Daniels Lane
+Wallsfort, PA 02303"
+290,68,WeatherStation,03-06-2022,Active,"1290 Susan Shores Suite 884
+North Mistyshire, CT 84169"
+291,94,WeatherStation,13-12-2021,Faulty,"574 Jodi Crest
+Santiagobury, MO 37278"
+292,87,WeatherStation,25-11-2022,Faulty,"9123 Fox Expressway
+Baileyberg, NE 35673"
+293,54,WeatherStation,11-11-2023,Inactive,"97796 Kevin Lane Suite 912
+Colemantown, AZ 66352"
+294,53,SensorBox,13-09-2021,Active,"72255 Gordon Trace Apt. 100
+Veronicaport, MT 35343"
+295,11,WeatherStation,27-11-2023,Faulty,"220 Gomez Junctions Apt. 583
+Port Donnabury, NC 01606"
+296,85,WeatherStation,15-09-2022,Active,"867 Franklin Corners
+Saraview, WI 85595"
+297,5,SensorBox,18-10-2021,Active,"90983 Erica Mills Apt. 261
+Watsonfurt, OH 33366"
+298,69,SensorBox,07-12-2024,Active,"942 Newman Lake Suite 895
+West Miguel, WY 90993"
+299,61,WeatherStation,11-09-2024,Inactive,"403 Abbott Wells Suite 237
+Fowlerton, NV 38776"
+300,41,SensorBox,14-12-2021,Inactive,"74108 Church Brooks
+Port Tyler, DE 13658"
+301,52,WeatherStation,07-04-2021,Faulty,"526 Hicks Estate
+Lake Lauren, UT 06071"
+302,40,WeatherStation,27-11-2024,Faulty,"100 Brian Ramp Suite 883
+South Ronaldland, CO 07745"
+303,87,SensorBox,26-07-2024,Faulty,"671 Cook Glens Suite 076
+Juliemouth, TX 50971"
+304,6,WeatherStation,19-04-2025,Active,"787 Sarah Summit Suite 523
+South Shannonmouth, NC 83203"
+305,5,WeatherStation,15-09-2024,Faulty,"677 Warren Mountains
+Espinozachester, NM 47161"
+306,8,SensorBox,10-08-2023,Active,"552 Swanson Wells
+Mejialand, GA 14578"
+307,49,WeatherStation,16-11-2021,Inactive,"67083 Hicks Mountain
+New Dennis, WA 14116"
+308,27,SensorBox,22-07-2022,Faulty,"0717 Shaw Mountain
+Gloverport, TN 81536"
+309,29,WeatherStation,06-09-2022,Faulty,"3356 Katrina Fields Suite 786
+Port Carlos, OH 71226"
+310,23,WeatherStation,25-06-2020,Active,"492 Hall Squares Suite 440
+Lake Andrewstad, UT 10234"
+311,10,WeatherStation,11-02-2021,Active,"700 Jenkins Spur
+New Leah, VA 10312"
+312,83,WeatherStation,19-11-2024,Active,"19988 Jessica Run Apt. 366
+Jamesburgh, ME 35502"
+313,11,SensorBox,11-07-2022,Faulty,"587 Bailey Falls Suite 856
+Port Ryanville, KS 89661"
+314,48,WeatherStation,24-06-2024,Active,"5922 Nicole Ridges
+Port Leeburgh, OK 22685"
+315,48,WeatherStation,06-02-2024,Faulty,"9899 Johnson Garden Apt. 243
+Gordonton, FL 75043"
+316,8,WeatherStation,01-01-2024,Faulty,"359 Morgan Trace
+New Gregory, PR 46828"
+317,35,SensorBox,01-10-2023,Active,"163 Hood Skyway Apt. 045
+Kellybury, LA 72284"
+318,8,SensorBox,28-06-2024,Active,"PSC 6441, Box 4560
+APO AP 44221"
+319,24,WeatherStation,29-01-2025,Inactive,"35723 Thomas Gateway
+Hillside, SC 16937"
+320,79,WeatherStation,04-05-2024,Active,"66168 Ronald Locks
+Kathleenburgh, NE 76645"
+321,4,WeatherStation,27-07-2023,Inactive,"215 Andersen Knolls
+Robinhaven, NV 82198"
+322,63,WeatherStation,13-12-2020,Inactive,"41120 Thompson View
+Danielberg, UT 70243"
+323,3,WeatherStation,09-01-2025,Faulty,"9424 Herrera Route
+Lake Amanda, MS 55052"
+324,1,WeatherStation,02-01-2020,Inactive,"4671 Boyd Wall Suite 861
+Port Jacobborough, MN 67686"
+325,82,WeatherStation,21-10-2023,Inactive,"PSC 7323, Box 6567
+APO AP 11204"
+326,93,SensorBox,02-05-2025,Faulty,"6739 Jackson Corners
+Suzanneberg, PA 46705"
+327,99,SensorBox,05-07-2023,Inactive,"USCGC Coleman
+FPO AP 52958"
+328,27,WeatherStation,24-06-2023,Inactive,"0158 Wilson Prairie
+East Catherineberg, KS 34235"
+329,64,SensorBox,14-04-2022,Inactive,"181 Garcia Valleys Suite 319
+Port Sandra, AL 98366"
+330,5,WeatherStation,12-06-2023,Active,"4203 Brian Estate Suite 185
+Glenside, OH 37946"
+331,100,WeatherStation,05-06-2021,Faulty,"8889 Megan Knolls
+Richardsonberg, VI 95791"
+332,35,SensorBox,17-07-2022,Inactive,"3017 Pamela Plaza Suite 043
+Jasonside, MP 02277"
+333,31,WeatherStation,25-08-2020,Faulty,"7193 Miller Village
+Port Katherine, MD 39198"
+334,55,SensorBox,16-04-2020,Active,"465 Christopher Union
+New Jonathan, ND 41666"
+335,36,WeatherStation,13-05-2024,Active,"983 Christian Turnpike Suite 778
+Lake Michael, MD 84966"
+336,86,SensorBox,25-10-2023,Inactive,"2730 Butler Isle Apt. 539
+New Tanya, NY 04230"
+337,46,SensorBox,12-04-2022,Faulty,"68575 Little Forges
+Johnsonside, GA 67457"
+338,25,WeatherStation,08-02-2020,Faulty,"766 Gibson Dale Suite 964
+Lake Emmamouth, MS 46312"
+339,94,WeatherStation,25-04-2023,Active,"3177 Campos Center Apt. 634
+Ericstad, IN 56447"
+340,91,WeatherStation,14-06-2022,Active,"331 Blair Gateway Suite 860
+Edwardschester, MP 03563"
+341,12,WeatherStation,29-04-2023,Faulty,"74591 Ferguson Cape Apt. 825
+North Haroldburgh, VI 38370"
+342,87,WeatherStation,03-11-2022,Faulty,"19104 Paula Unions
+Josephtown, UT 19046"
+343,33,WeatherStation,04-01-2021,Active,"7532 Phillip Rest
+Port Hectorfort, TN 51482"
+344,32,SensorBox,21-09-2023,Inactive,"97919 Jeremiah Pine
+Port Kelliville, DC 61748"
+345,72,WeatherStation,10-03-2025,Inactive,"434 Charles Fields
+Lynnburgh, OH 81059"
+346,76,SensorBox,20-09-2021,Active,"4333 Kevin Burgs
+North Lauraview, WV 90053"
+347,69,SensorBox,03-11-2023,Active,"037 Rachel Passage Suite 784
+South Natalie, NH 42396"
+348,21,WeatherStation,11-06-2023,Faulty,"86024 Joseph Streets
+Duncanborough, OK 05795"
+349,69,SensorBox,01-03-2023,Inactive,"3341 Oneill Ville
+Cynthiaville, DE 87116"
+350,34,WeatherStation,27-09-2023,Faulty,"659 Norris Via
+Gonzalestown, WI 73012"
+351,33,SensorBox,18-12-2024,Active,"USNV Prince
+FPO AP 49896"
+352,80,WeatherStation,18-07-2023,Inactive,"0610 Jeffery Motorway Suite 132
+Mariahaven, MI 99034"
+353,21,WeatherStation,20-05-2021,Active,"55659 William Pass Suite 389
+Lake Steventon, OK 87261"
+354,81,SensorBox,07-08-2024,Inactive,"0456 Rebecca Creek Apt. 747
+Jessicaview, AL 63648"
+355,42,SensorBox,15-08-2024,Faulty,"145 Mcmillan Spring Suite 425
+Jarvishaven, MP 57593"
+356,43,WeatherStation,29-06-2023,Inactive,"890 Nelson Fields Apt. 532
+Janetmouth, MP 56527"
+357,3,SensorBox,27-10-2020,Active,"9747 Bridges Branch Apt. 553
+Nicoleton, HI 19645"
+358,8,WeatherStation,19-02-2025,Active,"517 Figueroa Parkways Suite 735
+South Ryanland, DE 17520"
+359,12,SensorBox,07-04-2025,Active,"66203 Andrew Hills Apt. 499
+Schwartzberg, WY 88033"
+360,86,SensorBox,22-07-2020,Inactive,"337 Samuel Isle
+South Alexander, AR 55327"
+361,45,WeatherStation,02-11-2020,Active,"76671 Simmons Streets
+New Blakeborough, LA 22079"
+362,42,WeatherStation,25-03-2022,Inactive,"USS Harris
+FPO AA 35078"
+363,6,WeatherStation,26-07-2024,Active,"31222 Bowers Highway
+Macdonaldfort, VI 30045"
+364,75,WeatherStation,18-12-2021,Faulty,"0192 Brendan Fork
+Lake William, MP 75502"
+365,10,WeatherStation,11-05-2022,Active,"87156 Mccarthy Spur
+Port Troy, SD 16235"
+366,2,SensorBox,20-02-2023,Active,"692 Alison Station Apt. 482
+Stewarttown, MI 22790"
+367,34,SensorBox,15-05-2023,Active,"6167 Anthony Square Suite 150
+East Stevenmouth, IA 63218"
+368,15,SensorBox,03-11-2024,Inactive,"801 Rocha Rest
+Keithhaven, FM 38344"
+369,34,WeatherStation,29-06-2020,Inactive,"Unit 5634 Box 2208
+DPO AP 37996"
+370,20,WeatherStation,14-12-2021,Inactive,"149 Jesus Cape
+West Kevinmouth, PA 12030"
+371,100,SensorBox,29-06-2021,Active,"06787 Schmidt Ferry
+Cassandraland, PA 43405"
+372,58,WeatherStation,28-08-2022,Faulty,"118 Heather Garden Apt. 277
+West Laurastad, NE 97835"
+373,80,SensorBox,24-02-2021,Inactive,"530 Jose Neck
+Wallaceborough, GU 42940"
+374,91,WeatherStation,27-03-2023,Faulty,"84954 Ramos Highway
+New Jason, IL 22996"
+375,18,SensorBox,16-08-2020,Faulty,"01647 Jacob Plain Apt. 994
+Reedview, VT 18105"
+376,31,WeatherStation,12-06-2021,Active,"51481 Carly Terrace
+Leonardborough, IL 39263"
+377,32,WeatherStation,16-05-2025,Inactive,"86983 Garcia Forge
+New Gilbertfurt, HI 81460"
+378,24,WeatherStation,27-02-2024,Faulty,"90714 Curtis Plains Suite 043
+South Robertmouth, MO 72863"
+379,33,WeatherStation,21-09-2020,Faulty,"54735 Michelle Ports Apt. 383
+Hugheshaven, CT 41358"
+380,18,SensorBox,11-01-2022,Active,"3984 Clark Common Apt. 464
+Leefurt, WY 05017"
+381,25,WeatherStation,09-08-2022,Active,"58467 Warner Pine Apt. 796
+Georgestad, RI 53957"
+382,34,WeatherStation,06-08-2024,Inactive,"1902 Raymond Fields
+Bryanview, MI 38300"
+383,72,SensorBox,27-10-2020,Faulty,"31116 Maxwell Grove Apt. 883
+Morrisontown, AL 78905"
+384,11,WeatherStation,26-03-2021,Inactive,"96729 Alexander Radial
+Port Coreystad, MN 78303"
+385,95,WeatherStation,12-07-2024,Active,"05386 John Valley Apt. 225
+East Tammystad, HI 25679"
+386,78,WeatherStation,21-11-2020,Inactive,"94967 Eric Greens Apt. 307
+Lake Gail, RI 37052"
+387,91,WeatherStation,20-09-2023,Inactive,"6358 Lutz Radial
+Cabreraberg, PA 27940"
+388,2,SensorBox,05-11-2021,Faulty,"846 Le Inlet Suite 616
+Pooleside, OR 03757"
+389,27,SensorBox,02-04-2021,Inactive,"1433 Gilbert Orchard Apt. 098
+Lisamouth, DE 51242"
+390,90,SensorBox,18-10-2023,Faulty,"974 Sherman Lights Apt. 886
+Gregoryfurt, AL 16662"
+391,83,SensorBox,25-03-2023,Faulty,"3199 Marcus Glens Suite 967
+Dianeview, LA 73638"
+392,53,SensorBox,04-08-2022,Active,"3576 Michael Shores
+East Brett, NJ 48735"
+393,15,WeatherStation,16-05-2023,Inactive,"2735 Jones Shore Suite 594
+Thomasmouth, NY 49348"
+394,81,WeatherStation,18-12-2024,Inactive,"9790 Kennedy Common
+Josephstad, CO 69573"
+395,11,WeatherStation,19-10-2023,Active,"223 James Mission Suite 087
+North Nicholas, WA 46371"
+396,51,SensorBox,13-07-2021,Inactive,"USNV Crawford
+FPO AP 01493"
+397,85,WeatherStation,28-02-2020,Inactive,"89081 Douglas Ways Apt. 079
+East Samuelberg, MT 19969"
+398,14,SensorBox,19-06-2022,Faulty,"93540 Garcia Courts
+Ashleyview, OH 77588"
+399,32,SensorBox,11-03-2020,Inactive,"366 Brianna Views
+North Cameronfurt, VI 03989"
+400,75,WeatherStation,15-04-2022,Faulty,"59343 Hayden Port
+Ryanville, VT 14034"
+401,21,WeatherStation,12-01-2023,Faulty,"09505 Janice Greens
+South Kimberly, ND 92647"
+402,40,WeatherStation,06-02-2021,Inactive,"76354 John Street
+Danielmouth, AR 85119"
+403,39,SensorBox,07-05-2023,Inactive,"USNV Dunn
+FPO AP 37782"
+404,97,SensorBox,09-03-2020,Faulty,"PSC 3183, Box 9918
+APO AE 56169"
+405,90,SensorBox,27-05-2023,Active,"3891 Moran Wall Suite 566
+Johnsonview, DC 87736"
+406,13,SensorBox,07-04-2023,Active,"734 Nathaniel Stravenue Suite 642
+North Christine, NH 50707"
+407,56,WeatherStation,20-11-2021,Active,"0588 Clinton Stravenue Suite 749
+North Jake, NH 04878"
+408,20,WeatherStation,12-10-2023,Inactive,"89085 Dana Walks Apt. 747
+Carsonview, OH 93386"
+409,53,SensorBox,08-08-2023,Active,"Unit 3775 Box 5315
+DPO AE 79570"
+410,37,SensorBox,12-07-2020,Inactive,"18391 King Canyon Apt. 234
+East Steven, IL 26918"
+411,61,SensorBox,05-05-2022,Faulty,"8086 Beth Lane
+Samanthaport, GA 30935"
+412,95,WeatherStation,28-01-2022,Inactive,"5310 Dixon Spurs Apt. 868
+New Donna, ID 52851"
+413,46,SensorBox,07-05-2023,Faulty,"0198 Dustin Light
+North Sarahmouth, UT 65080"
+414,5,WeatherStation,18-04-2023,Inactive,"26871 Kevin Trail
+Susanside, WA 10650"
+415,42,SensorBox,16-04-2023,Inactive,"76491 Dylan Wall Apt. 264
+Marshshire, MS 48863"
+416,24,SensorBox,28-06-2020,Active,"21697 Alison Turnpike Suite 870
+Bartontown, GU 44687"
+417,77,SensorBox,13-03-2024,Inactive,"700 White Mount
+Loganstad, OH 57068"
+418,97,WeatherStation,23-12-2021,Inactive,"74408 Heather Mission
+Markmouth, NM 52884"
+419,84,WeatherStation,25-02-2020,Faulty,"42879 Jerry Alley
+Carterside, MD 46139"
+420,5,SensorBox,27-01-2022,Faulty,"23577 Sara Branch
+East Brianburgh, IN 22730"
+421,41,SensorBox,05-06-2024,Inactive,"797 Walker Orchard Suite 526
+Douglashaven, DE 64810"
+422,34,SensorBox,29-10-2021,Inactive,"023 Smith Mission
+Taylorberg, NH 73959"
+423,43,WeatherStation,30-04-2022,Active,"6126 Jessica View Suite 904
+South Josephfurt, MS 66983"
+424,33,WeatherStation,01-09-2024,Inactive,"5254 Jason Wells
+Robertton, NC 77096"
+425,51,SensorBox,09-02-2025,Faulty,"Unit 6893 Box 7236
+DPO AA 09260"
+426,83,WeatherStation,14-01-2022,Faulty,"377 Davis Meadows Suite 923
+East Michaelside, NH 13474"
+427,9,WeatherStation,07-10-2024,Faulty,"1672 Andrea Mall Suite 733
+South Garyburgh, OH 14408"
+428,16,SensorBox,15-09-2023,Active,"623 Wright Falls
+Michaelstad, LA 01074"
+429,68,WeatherStation,29-05-2022,Inactive,"15317 Vaughan Prairie Suite 220
+North Anthonyland, FL 56413"
+430,14,WeatherStation,14-05-2023,Inactive,"USS Butler
+FPO AA 22012"
+431,84,WeatherStation,04-08-2022,Active,"159 Katie Lodge Apt. 583
+Lake Teresa, LA 10093"
+432,91,WeatherStation,12-07-2021,Faulty,"64680 Jamie Walk Suite 364
+Jeffreyborough, IA 74279"
+433,83,SensorBox,20-08-2020,Faulty,"573 Jones Park
+East Mariah, AL 87125"
+434,31,SensorBox,22-03-2024,Faulty,"8837 Anderson Tunnel
+North Lisa, NH 92015"
+435,55,WeatherStation,14-06-2022,Faulty,"07567 Pierce Cliff Suite 879
+Jacksonfort, ME 85875"
+436,88,WeatherStation,22-10-2020,Inactive,"84324 Johnson Cove
+Denisebury, GA 45729"
+437,6,SensorBox,25-04-2024,Faulty,"PSC 4294, Box 4647
+APO AA 77470"
+438,89,SensorBox,21-04-2024,Faulty,"3848 Nguyen Prairie
+Lake Amy, MS 36860"
+439,80,SensorBox,19-10-2021,Faulty,"997 Amy Radial
+West Amandabury, MS 03134"
+440,74,SensorBox,10-12-2022,Inactive,"5824 Wise Fall
+Jamesstad, OH 51195"
+441,7,WeatherStation,10-02-2023,Active,"0165 Myers Fall Suite 705
+West Paul, OR 55093"
+442,9,WeatherStation,01-01-2025,Faulty,"7460 Rivera Lights Apt. 350
+Lake Cameronfort, PR 39757"
+443,11,WeatherStation,30-10-2022,Active,"PSC 9699, Box 8498
+APO AE 04511"
+444,45,SensorBox,23-10-2022,Inactive,"795 Bruce Prairie Suite 665
+North Edwardshire, AL 25403"
+445,72,WeatherStation,07-03-2024,Active,"4074 Mendoza Shore
+Dodsonfurt, WY 05025"
+446,27,WeatherStation,03-01-2022,Inactive,"344 Compton Gateway Apt. 230
+East Jenniferside, VT 42906"
+447,82,WeatherStation,09-01-2022,Inactive,"86757 Blake Hills Suite 325
+Port Edward, SC 18532"
+448,21,SensorBox,19-04-2021,Active,"263 Diaz Loaf Suite 721
+Port Geraldfurt, WV 70836"
+449,11,SensorBox,21-10-2020,Faulty,"9037 Jennifer Fork Apt. 121
+West George, VT 19841"
+450,86,SensorBox,20-01-2023,Inactive,"71069 Santos Mill
+South Edwardberg, WI 59750"
+451,59,WeatherStation,13-06-2023,Inactive,"USS Mitchell
+FPO AE 91336"
+452,17,WeatherStation,25-06-2023,Inactive,"34589 David Lake Apt. 214
+West Kevinmouth, MA 16858"
+453,69,SensorBox,11-09-2022,Inactive,"336 Lopez Unions
+Taraport, GU 69237"
+454,28,SensorBox,12-04-2020,Active,"Unit 5000 Box 4353
+DPO AE 50579"
+455,46,SensorBox,25-08-2021,Active,"7688 Kendra Expressway
+East Tannermouth, KY 10671"
+456,94,WeatherStation,26-05-2023,Inactive,"0556 Jennifer Estates
+Port Melissafort, WI 03108"
+457,90,SensorBox,04-02-2024,Inactive,"Unit 3212 Box 4505
+DPO AA 63374"
+458,58,WeatherStation,23-07-2023,Faulty,"033 Reid Walk
+North Kaitlyn, WA 79348"
+459,85,WeatherStation,07-10-2023,Inactive,"602 Krause Pine Suite 105
+Sampsontown, RI 72503"
+460,73,WeatherStation,17-03-2025,Faulty,"58173 Kimberly Plaza Apt. 990
+South Randyport, ND 08850"
+461,20,SensorBox,12-12-2021,Active,"7824 Young Lane
+Port Robert, WY 94874"
+462,55,WeatherStation,16-07-2020,Inactive,"Unit 0531 Box 4974
+DPO AE 65858"
+463,82,WeatherStation,13-09-2023,Inactive,"USNV Wright
+FPO AP 49512"
+464,93,SensorBox,04-09-2021,Active,"661 Kaylee Garden
+Diazfurt, CA 30854"
+465,62,SensorBox,11-11-2024,Active,"913 Johnson Plains Suite 897
+Rodrigueztown, VI 31262"
+466,52,WeatherStation,04-05-2021,Faulty,"52446 Anthony Knoll Suite 662
+East Ryanburgh, GA 79843"
+467,56,SensorBox,21-07-2022,Active,"966 Shannon Canyon
+West Alison, SD 49116"
+468,44,WeatherStation,09-04-2025,Faulty,"2611 David Brook
+North Thomas, KY 48608"
+469,90,WeatherStation,03-11-2021,Inactive,"6795 Christopher Prairie Suite 440
+Johnsonport, KY 77447"
+470,97,WeatherStation,03-11-2024,Inactive,"2834 Allen Pines Apt. 354
+North Paulabury, WV 97772"
+471,47,SensorBox,09-04-2023,Inactive,"38011 Stephenson Viaduct
+Edwardshire, SC 57534"
+472,24,WeatherStation,22-02-2020,Inactive,"550 Julia Lake
+Lake Candice, RI 89635"
+473,90,SensorBox,24-01-2025,Active,"25224 Christina Turnpike
+Port Pam, MI 82591"
+474,28,WeatherStation,10-12-2024,Faulty,"645 Humphrey Terrace
+Peterburgh, NH 16754"
+475,7,WeatherStation,11-03-2021,Faulty,"PSC 4989, Box 8823
+APO AE 47373"
+476,90,SensorBox,13-06-2020,Inactive,"174 Kristen Courts Suite 449
+Maychester, AS 72358"
+477,100,WeatherStation,20-03-2021,Faulty,"0287 Brooke Lake
+Christinetown, MS 18685"
+478,60,SensorBox,27-08-2020,Faulty,"56345 George Crest
+Lake Nicholasberg, MD 53129"
+479,60,WeatherStation,25-04-2025,Inactive,"9118 Brooke Inlet
+Lake Williamside, SD 66346"
+480,72,SensorBox,04-10-2022,Inactive,"414 Tonya Ferry Suite 613
+West Brandonberg, NH 46327"
+481,56,SensorBox,22-06-2020,Faulty,"701 Tracy Shoals Apt. 577
+Lisachester, AK 24994"
+482,58,WeatherStation,11-03-2023,Faulty,"8688 Roth Station
+North Meganville, ME 60586"
+483,69,SensorBox,12-12-2023,Faulty,"775 Harrison Divide
+West Christinashire, NC 59391"
+484,46,WeatherStation,23-02-2022,Faulty,"USS Hill
+FPO AP 41998"
+485,94,WeatherStation,09-11-2024,Active,"81116 Alyssa Lodge
+Williammouth, MH 16974"
+486,22,SensorBox,16-04-2023,Faulty,"0289 Michael Bridge Suite 223
+Stephenport, CA 40861"
+487,27,SensorBox,04-01-2024,Active,"Unit 1555 Box 7088
+DPO AE 46324"
+488,72,WeatherStation,24-03-2020,Inactive,"20582 Sharon Overpass Apt. 075
+Littlestad, TX 58116"
+489,16,SensorBox,14-12-2023,Faulty,"0076 Theodore Mall Apt. 100
+New Sarahchester, FM 22524"
+490,16,SensorBox,30-09-2020,Active,"428 Kenneth Trace
+East Crystalshire, TN 99005"
+491,49,WeatherStation,28-02-2021,Active,"30260 Lewis Trace
+East Austinborough, WV 98081"
+492,93,WeatherStation,06-09-2021,Active,"35100 Alexandra Villages
+South Marissaside, SD 32668"
+493,33,WeatherStation,02-08-2021,Inactive,"451 Herrera Summit
+North Luke, WY 79709"
+494,56,WeatherStation,14-09-2021,Inactive,"56674 Robert View
+West Craig, VA 33185"
+495,48,WeatherStation,05-05-2021,Faulty,"6021 Matthew Rapids Apt. 510
+North Vicki, TN 37524"
+496,26,WeatherStation,15-05-2024,Active,"PSC 0415, Box 2779
+APO AP 79328"
+497,34,SensorBox,04-10-2023,Active,"15208 Kelli Rest Apt. 163
+North Stephen, HI 09226"
+498,42,WeatherStation,31-01-2023,Faulty,"49481 Bailey Parks Suite 604
+North Ashley, SD 47002"
+499,82,WeatherStation,22-09-2021,Inactive,"296 Perez Ramp
+Port Natalie, DC 47968"
+500,77,SensorBox,10-09-2024,Active,"184 Jordan Junction Suite 270
+Wilsonside, PA 12626"
